@@ -1,3 +1,16 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "DSA-Lab course",
+      "day": "Thursday 4 pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Maths Tutorial",
+      "day": "Thursday 8 pm",
+      "reminder": false,
+      "id": 2
+    }
+  ]
 }
