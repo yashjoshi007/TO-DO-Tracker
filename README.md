@@ -27,3 +27,8 @@ npm run server
 ```
 npm run build
 ```
+
+<h2 align= "left"><b>Tracking Page</b></h2>
+<p align="center">
+  
+  <img width=20% src="Screenshots/work page.jpg"> &ensp;
