@@ -29,6 +29,6 @@ npm run build
 ```
 
 <h2 align= "left"><b>Tracking Page</b></h2>
-<p align="center">
+<p align="left">
   
-  <img width=20% src="Screenshots/work page.jpg"> &ensp;
+  <img width=40% src="Screenshots/work page.jpg"> &ensp;
